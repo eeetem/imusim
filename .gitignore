@@ -1,6 +1,11 @@
 *.pyc
 *.so
+imusim/maths/*.html
 build
 docs/build
-imusim.egg-info
-dist
+.idea
+dist/
+imusim.egg-info/
+.DS_Store
+tests*.txt
+
