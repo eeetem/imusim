@@ -1,0 +1,5 @@
+mayavi
+setuptools
+matplotlib
+numpy
+scipy
