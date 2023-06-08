@@ -1,3 +1,6 @@
+A patched version of imusim that compiles on python3 and has all the missing .c files that aren't present in the original repository
+
+
 IMUSim - simulator for inertial and magnetic sensing systems and algorithms.
 
 For more information see http://www.imusim.org/
